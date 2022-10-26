@@ -7,6 +7,7 @@
     <title>Coba git remote</title>
 </head>
 <body>
-    <h1>hello world! hahahaha</h1>
+    <h1>hello world! hahahaha </h1>
+    <h1>kamu harus sukses! </h1>
 </body>
 </html>
